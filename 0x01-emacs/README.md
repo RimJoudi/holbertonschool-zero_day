@@ -1,0 +1,1 @@
+informations about opening a file whithin Emacs
