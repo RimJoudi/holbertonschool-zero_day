@@ -1,1 +1,1 @@
-informations about opening a file whithin Emacs
+informations about saving a file whithin Emacs
