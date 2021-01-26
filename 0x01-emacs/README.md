@@ -1,1 +1,1 @@
-informations about saving a file whithin Emacs
+informations about howto cut a file in Emacs
