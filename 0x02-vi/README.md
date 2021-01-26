@@ -1,1 +1,1 @@
-cutting in vi
+pasting in vi
