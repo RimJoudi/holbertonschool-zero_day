@@ -1,1 +1,1 @@
-inserting  file
+cutting in vi
