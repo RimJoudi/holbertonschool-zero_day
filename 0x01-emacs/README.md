@@ -1,1 +1,1 @@
-informations about searching for a file in Emacs
+informations about undoing in Emacs
