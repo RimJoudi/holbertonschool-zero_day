@@ -1,1 +1,1 @@
-informations about how to quit Emacs
+Let's play Tetris inside Emacs
