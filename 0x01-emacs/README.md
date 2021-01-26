@@ -1,1 +1,1 @@
-informations about undoing in Emacs
+informations about how to quit Emacs
