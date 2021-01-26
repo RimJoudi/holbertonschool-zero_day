@@ -1,1 +1,1 @@
-how to quit vi 
+how to quit  
