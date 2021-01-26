@@ -1,1 +1,1 @@
-informations about  pasting a file in Emacs
+informations about searching for a file in Emacs
