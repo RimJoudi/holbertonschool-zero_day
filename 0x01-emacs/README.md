@@ -1,1 +1,1 @@
-Let's play Tetris inside Emacs
+Ask a doctor in Emacs
