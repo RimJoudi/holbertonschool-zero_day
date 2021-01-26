@@ -1,1 +1,1 @@
-quit without saving in vi
+quit vi
