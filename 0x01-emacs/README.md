@@ -1,1 +1,1 @@
-informations about howto cut a file in Emacs
+informations about  pasting a file in Emacs
