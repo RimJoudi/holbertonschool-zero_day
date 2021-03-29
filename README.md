@@ -6,7 +6,7 @@ This is the first project at Holberton school as a software engineering student.
 
 
 
-### Different directories at  holbertonschool-zero_day repository:
+### Different directories at repository:
 
 - 0x00. Vagrant
 - 0x01. Emacs
@@ -15,8 +15,7 @@ This is the first project at Holberton school as a software engineering student.
 
 
 
-[![Holberton school](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8g8Cvqw9Z7Rx9IHGq9gKYneeM1U4_KvUNTeaCBkX2L5pFE3Ihw-5uNGs9xPSmUb5kXA&usqp=CAU)](https://www.
-holbertonschool.com/tn/en/ "Holberton school")
+[![Holberton school](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8g8Cvqw9Z7Rx9IHGq9gKYneeM1U4_KvUNTeaCBkX2L5pFE3Ihw-5uNGs9xPSmUb5kXA&usqp=CAU)](https://www.holbertonschool.com/tn/en/ "Holberton school")
 
 
 
