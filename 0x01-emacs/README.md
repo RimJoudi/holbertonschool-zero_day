@@ -7,10 +7,13 @@ In this project we are going to install Emacs and to learn how to work with it a
 
 ### Usage
  First of all we need to install Emacs as follow on the terminal:
-
+ 
+```
 $ sudo apt-get update
 $ sudo apt-get upgrade
 $ sudo apt-get install emacs
+
+```
 
 This  [Emacs cheat sheet](https://gist.github.com/RimJoudi/49c1597764fffec759a5be84b9545d18 "Emacs cheat sheet") may help when using the Emacs editor.
 
