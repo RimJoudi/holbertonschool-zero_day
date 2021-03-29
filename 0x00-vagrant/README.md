@@ -1,8 +1,7 @@
 # Vagrant
 
 ###  Description
-In this project we are going to install vagrant and to learn how to work with it  as a part of the curriculum of software engineering for holbertonschool-zero_day modu\
-le at Holberton School.
+In this project we are going to install vagrant and to learn how to work with it as a part of the curriculum of software engineering for holbertonschool-zero_day module at Holberton School.
 
 
 ### Usage
@@ -11,8 +10,8 @@ le at Holberton School.
 
 
       $ sudo apt-get update
-	        $ sudo apt-get upgrade
-			      $ sudo apt-get install git
+	  $ sudo apt-get upgrade
+	  $ sudo apt-get install git
 
 
 
@@ -56,10 +55,10 @@ At the end of this project you should be able to reproduce and understand these 
 
 ```
       $ git clone <repo>
-	        $ touch test
-			      $ git add test
-				        $ git commit -m "Initial commit"
-						      $ git push origin main
+	  $ touch test
+	  $ git add test
+	  $ git commit -m "Initial commit"
+	  $ git push origin main
 
 ```
 
@@ -78,9 +77,7 @@ At the end of this project you should be able to reproduce and understand these 
 
 
 
-[![Holberton school](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8g8Cvqw9Z7Rx9IHGq9gKYneeM1U4_KvUNTeaCBkX2L5pFE3Ihw-5uNGs9xPSmUb5kXA&usqp=CAU)](https://www.\
-\
-holbertonschool.com/tn/en/ "Holberton school")
+[![Holberton school](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8g8Cvqw9Z7Rx9IHGq9gKYneeM1U4_KvUNTeaCBkX2L5pFE3Ihw-5uNGs9xPSmUb5kXA&usqp=CAU)](https://www.holbertonschool.com/tn/en/ "Holberton school")
 
 
 
