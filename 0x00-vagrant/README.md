@@ -49,7 +49,7 @@ boxes at https://atlas.hashicorp.com/search.
 
 ###### Now we are  in our Ubuntu VM. Now we are  in our Ubuntu VM.
 
-###Basic usage
+### Basic usage
 At the end of this project you should be able to reproduce and understand these command lines:
 
 
