@@ -54,7 +54,7 @@ At the end of this project you should be able to reproduce and understand these 
 
 
 ```
-      $ git clone <repo>
+	  $ git clone <repo>
 	  $ touch test
 	  $ git add test
 	  $ git commit -m "Initial commit"
