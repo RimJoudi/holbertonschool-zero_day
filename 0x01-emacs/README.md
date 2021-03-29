@@ -8,9 +8,9 @@ In this project we are going to install Emacs and to learn how to work with it a
 ### Usage
  First of all we need to install Emacs as follow on the terminal:
 
- $ sudo apt-get update
- $ sudo apt-get upgrade
- $ sudo apt-get install emacs
+$ sudo apt-get update
+$ sudo apt-get upgrade
+$ sudo apt-get install emacs
 
 This  [Emacs cheat sheet](https://gist.github.com/RimJoudi/49c1597764fffec759a5be84b9545d18 "Emacs cheat sheet") may help when using the Emacs editor.
 
@@ -38,8 +38,7 @@ This  [Emacs cheat sheet](https://gist.github.com/RimJoudi/49c1597764fffec759a5b
 
 
 
-[![Holberton school](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8g8Cvqw9Z7Rx9IHGq9gKYneeM1U4_KvUNTeaCBkX2L5pFE3Ihw-5uNGs9xPSmUb5kXA&usqp=CAU)](https://www.
-holbertonschool.com/tn/en/ "Holberton school")
+[![Holberton school](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8g8Cvqw9Z7Rx9IHGq9gKYneeM1U4_KvUNTeaCBkX2L5pFE3Ihw-5uNGs9xPSmUb5kXA&usqp=CAU)](https://www.holbertonschool.com/tn/en/ "Holberton school")
 
 
 
