@@ -32,8 +32,8 @@ Open the file Vagrantfile with your favorite editor (probably Emacs or vi). Find
 It should look something like this when you open the Vagrantfile for the fist time:
 
 
-> Every Vagrant development environment requires a box. You can search for
-boxes at https://atlas.hashicorp.com/search.
+> Every Vagrant development environment requires a box.
+You can search for boxes at https://atlas.hashicorp.com/search.
 > config.vm.box = "base"
 
 
